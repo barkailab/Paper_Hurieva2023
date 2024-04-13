@@ -1,4 +1,4 @@
-%% Load samples
+%% Load samples 
 load(['/home/labs/barkailab/bohdana/001_sequencing_data/004_medians/20230704_medians_BH_RM'],'medianSumPromNewAll')
      
 GP=load('/home/labs/barkailab/felixj/Documents/MATLAB/scripts/gene/group_imp.mat');
